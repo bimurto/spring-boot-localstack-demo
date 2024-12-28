@@ -1,1 +1,1 @@
-rootProject.name = "spring-boot-demo"
+rootProject.name = "spring-boot-localstack-demo"
